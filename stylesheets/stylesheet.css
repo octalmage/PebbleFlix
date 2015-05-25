@@ -27,6 +27,11 @@ a {
   transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
   .btn + .btn {
     margin-left: 1rem; }
+    
+.screens
+{
+    padding: 10px;
+}
 
 .btn:hover {
   color: rgba(255, 255, 255, 0.8);
