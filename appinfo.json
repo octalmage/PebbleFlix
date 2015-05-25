@@ -33,7 +33,7 @@
     "shortName": "PebbleFlix",
     "uuid": "246bfe83-fab6-48e0-b517-aa40edcb413a",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "0.1",
     "watchapp": {
         "watchface": false
     }
